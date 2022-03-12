@@ -1,7 +1,7 @@
 ## mavon-editor_cdn
 
 
-###一些关于mavon-editor的静态cdn资源
+### 一些关于mavon-editor的静态cdn资源
 
 >说明：copy文件夹存放的是在代码块中添加 **复制** 按钮的实现
 
