@@ -1,7 +1,7 @@
 ## mavon-editor_cdn
 
 
-###一些关于mavon-editor的静态cdn资源
+### 一些关于mavon-editor的静态cdn资源
 
 ### **使用方法：**
 
