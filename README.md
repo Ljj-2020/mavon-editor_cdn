@@ -6,6 +6,8 @@
 ### **使用方法：**
 
     https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+    
+    httpS://cdn.jsdelivr.net/gh/Ljj-2020/mavon-editor_cdn/resources/markdown/github-markdown.min.css
 
 >说明：copy文件夹存放的是在代码块中添加 **复制** 按钮的实现
 
